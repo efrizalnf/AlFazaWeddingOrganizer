@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Al-Faza Wedding Organizer</string>
+    <string name="favorite">Favorite</string>
+    <string name="share">Share</string>
+    <string name="title_activity_desc">Deskripsi Gaun</string>
+    <string name="detil">Detail</string>
+    <string name="bahan_bahan">Bahan</string>
+    <string name="size">Ukuran</string>
+</resources>
